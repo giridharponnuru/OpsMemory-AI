@@ -1,0 +1,28 @@
+60-SECOND DEMO SCRIPT
+
+0–8 sec
+“Production incidents repeat. Engineers often spend time searching old postmortems to remember what happened last time.”
+
+8–18 sec
+“Meet OpsMemory AI. It is an incident-response agent with persistent organizational memory powered by Hindsight.”
+
+18–32 sec
+Paste:
+“Checkout API is returning HTTP 502 for 35% of requests immediately after today's deployment.”
+
+Click Investigate.
+
+32–43 sec
+“Notice that it recalls two previous checkout 502 incidents and uses their resolutions while reasoning about the current incident.”
+
+Show Memories Used + Recommended Response.
+
+43–52 sec
+“After the incident is resolved, we retain the outcome in Hindsight.”
+
+Click Retain this lesson.
+
+52–60 sec
+“Now the next similar incident can use that newly learned experience. The value isn't answering once — it's getting better from every resolved incident.”
+
+END.

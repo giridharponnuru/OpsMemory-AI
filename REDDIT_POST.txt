@@ -1,0 +1,19 @@
+Title: We built an AI incident-response agent that remembers past outages — HackWithHyderabad 3.0
+
+We built OpsMemory AI for HackWithHyderabad 3.0.
+
+The idea is simple: production incidents repeat, but the lessons from previous incidents are often buried in postmortems and tickets.
+
+Our agent uses Hindsight as a persistent memory layer:
+
+Incident → Recall → Reflect → Resolve → Retain → Better future response
+
+For example, when a checkout API starts returning HTTP 502 after a deployment, the agent can recall similar historical incidents, identify previous root causes and remediation steps, and use those memories in its response.
+
+After the incident is resolved, we retain the outcome so future incidents can benefit from it.
+
+The project is built with Python, Streamlit and Hindsight.
+
+We focused on making the memory visible rather than building another generic chatbot.
+
+Feedback welcome!

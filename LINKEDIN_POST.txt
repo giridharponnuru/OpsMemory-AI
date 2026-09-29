@@ -1,0 +1,19 @@
+🚀 We built OpsMemory AI at HackWithHyderabad 3.0!
+
+Production incidents repeat, but engineering teams often have to rediscover the same root causes and fixes.
+
+Our solution is an AI Incident Response Agent powered by Hindsight that creates a persistent organizational memory:
+
+🚨 Incident → 🧠 Recall past incidents → 🤖 Reason → ✅ Resolve → 💾 Retain the lesson → 🔁 Improve the next response
+
+Unlike a stateless chatbot, the agent gets better as the incident history grows.
+
+The core of our project uses Hindsight's Retain, Recall and Reflect capabilities to turn incident postmortems into reusable operational experience.
+
+We focused on one question:
+
+“What if your incident-response agent actually remembered what your team learned?”
+
+Built with Python, Streamlit and Hindsight.
+
+#HackWithHyderabad #Hackathon #AI #AIAgents #Hindsight #Vectorize #DevOps #SRE #IncidentResponse #GenerativeAI #BuildInPublic
